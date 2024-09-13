@@ -9,8 +9,6 @@ This repository contains solutions to three classic Ruby programming challenges:
 - [Stock Picker](#stock-picker)
 - [Getting Started](#getting-started)
 - [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
